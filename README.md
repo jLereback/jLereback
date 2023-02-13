@@ -9,7 +9,7 @@
     <a href='https://www.iths.se/'>IT-Högskolan</a>
   </p>
   <p align='center'>
-    <a href="https://www.linkedin.com/in/julia-lereb%C3%A4ck-corell-260b9a199/">
+    <a href="https://www.linkedin.com/in/julia-lereb%C3%A4ck-corell/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
            alt="Julia Lerebäck Corell's LinkedIn profile"/>
     </a>
