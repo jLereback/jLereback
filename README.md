@@ -38,8 +38,8 @@
     </a>
     <a href="https://github.com/jLereback#gh-light-mode-only">
       <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jLereback&theme=nord_bright#gh-light-mode-only"
-          alt="Julia Lerebäck Corell's GitHub Contributions">
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jLereback&theme=vue#gh-light-mode-only"
+          width="510" alt="Julia Lerebäck Corell's GitHub Contributions">
     </a>
   </div>
 </section>
@@ -86,4 +86,3 @@
     </a>
   </div>
 </section>
-
