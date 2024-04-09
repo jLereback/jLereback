@@ -10,7 +10,7 @@
   <div align='center'>
     <a href="https://www.linkedin.com/in/julia-lereb%C3%A4ck-corell/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-           alt="Julia Lerebäck Corell's LinkedIn profile"/>
+           alt="Julia Corell's LinkedIn profile"/>
     </a>
   </div>
 </section>
@@ -22,24 +22,24 @@
     <a href="https://github.com/jLereback#gh-dark-mode-only">
       <img
           src="https://github-readme-stats.vercel.app/api?username=jLereback&show_icons=true&title_color=ff757f&text_color=f8f8f8&icon_color=599dff&bg_color=222436&hide_border=true#gh-dark-mode-only"
-          width="350" alt="Julia Lerebäck Corell's GitHub Stats">
+          width="350" alt="Julia Corell's GitHub Stats">
     </a>
     <a href="https://github.com/jLereback#gh-light-mode-only">
       <img
           src="https://github-readme-stats.vercel.app/api?username=jLereback&show_icons=true&theme=vue#gh-light-mode-only"
-          width="350" alt="Julia Lerebäck Corell's GitHub Stats">
+          width="350" alt="Julia Corell's GitHub Stats">
     </a>
   </div>
   <div align='center'>
     <a href="https://github.com/jLereback#gh-dark-mode-only">
       <img
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jLereback&theme=moonlight#gh-dark-mode-only"
-          width="510" alt="Julia Lerebäck Corell's GitHub Contributions">
+          width="510" alt="Julia Corell's GitHub Contributions">
     </a>
     <a href="https://github.com/jLereback#gh-light-mode-only">
       <img
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jLereback&theme=vue#gh-light-mode-only"
-          width="510" alt="Julia Lerebäck Corell's GitHub Contributions">
+          width="510" alt="Julia Corell's GitHub Contributions">
     </a>
   </div>
 </section>
