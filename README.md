@@ -3,9 +3,7 @@
     Hello I'm Julia!
   </h1>
   <div align='center'>
-    Java full stack developer in the making!<br>
-    Undertaking a 2-year Java Developer full stack program @
-    <a href='https://www.iths.se/'>IT-Högskolan</a>
+    Java full stack developer!<br>
   </div>
   <div align='center'>
     <a href="https://www.linkedin.com/in/julia-corell/">
